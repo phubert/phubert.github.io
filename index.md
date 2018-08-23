@@ -1,6 +1,6 @@
 # Étudiante au doctorat en combinatoire
 
-![photo](photo.png)
+![photo](photo.jpg)
 
 Étudiante au doctorat à l'Université du Québec à Montréal [UQAM](https://math.uqam.ca/)
 
