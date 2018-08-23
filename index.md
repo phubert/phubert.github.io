@@ -1,4 +1,3 @@
-# Étudiante au doctorat en combinatoire
 
 ![photo](photo.jpg)
 
