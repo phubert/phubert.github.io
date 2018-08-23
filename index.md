@@ -1,11 +1,11 @@
 
 ![photo](photo.jpg)
 
-Étudiante au doctorat à l'Université du Québec à Montréal [UQAM](https://math.uqam.ca/)
+Étudiante au doctorat à l'Université du Québec à Montréal [(UQAM)](https://math.uqam.ca/)
 
 Département de Mathématiques 
 
-Laboratoire de Combinatoire et d'Informatique Mathématique [LaCIM](http://lacim.uqam.ca/)
+Laboratoire de Combinatoire et d'Informatique Mathématique [(LaCIM)](http://lacim.uqam.ca/)
 
 # Cours enseignés 
 - [MAT0341](https://etudier.uqam.ca/cours?sigle=MAT0341) : Calcul intégral et différentiel (UQAM), hiver 2017
