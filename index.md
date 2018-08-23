@@ -20,4 +20,4 @@ Combinatoire algébrique et énumérative. Théorie de la représentation et des
 - [MAT1600](https://etudier.uqam.ca/cours?sigle=MAT1600) : Algèbre matricielle (UQAM), hiver 2017
 
 
-[create an anchor](#anchors-in-markdown)
+[create an anchor](# Nouvelles section)
