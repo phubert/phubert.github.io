@@ -1,7 +1,5 @@
 theme: jekyll-theme-architect
 name : Pauline Hubert
 
-webrick:
-  headers:
-    My-Header: My-Value
-    My-Other-Header: My-Other-Value
+title: Pauline Hubert
+description: My personnale website
