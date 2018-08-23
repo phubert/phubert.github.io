@@ -11,6 +11,9 @@ Laboratoire de Combinatoire et d'Informatique Mathématique [(LaCIM)](http://lac
 
 Combinatoire algébrique et énumérative. Théorie de la représentation et des caractères. Fonctions symétriques. 
 
+# Contributions à Sage 
+[Voir mes contrinutions à Sage](sage.md)
+
 # Cours enseignés 
 - [MAT0341](https://etudier.uqam.ca/cours?sigle=MAT0341) : Calcul intégral et différentiel (UQAM), hiver 2017
 - [MAT0341](https://etudier.uqam.ca/cours?sigle=MAT0341) : Calcul intégral et différentiel (UQAM), automne 2017
