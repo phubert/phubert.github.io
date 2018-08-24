@@ -1,5 +1,6 @@
 
 ![photo](photo.jpg)
+*Concours Ma thèse en 180s (12 avril 2018)*
 
 Étudiante au doctorat à l'Université du Québec à Montréal [(UQAM)](https://math.uqam.ca/)
 
