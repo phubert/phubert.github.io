@@ -1,6 +1,6 @@
 
 ![photo](photo.jpg)
-*Concours Ma thèse en 180s (12 avril 2018)*
+*Concours Ma thèse en 180 secondes (12 avril 2018)*
 
 Étudiante au doctorat à l'Université du Québec à Montréal [(UQAM)](https://math.uqam.ca/)
 
@@ -12,8 +12,6 @@ Laboratoire de Combinatoire et d'Informatique Mathématique [(LaCIM)](http://lac
 
 Combinatoire algébrique et énumérative. Théorie de la représentation et des caractères. Fonctions symétriques. 
 
-# Contributions à Sage 
-[Voir mes contributions à Sage](sage.md)
 
 # Cours enseignés 
 - [MAT0341](https://etudier.uqam.ca/cours?sigle=MAT0341) : Calcul intégral et différentiel (UQAM), hiver 2017
