@@ -1,6 +1,6 @@
 ## Informations personnelles
 
-email : hubert.pauline@courrier.uqam.ca
+email : <span class="email">Email: hubert.pauline<span></span><span>@</span><span></span>courrier.uqam<span>.</span>ca</span><span class="border"> | </span>
 
 bureau : Université du Québec à Montréal, Pavillon Président-Kennedy, Local PK-4528
 
