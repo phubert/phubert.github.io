@@ -8,7 +8,13 @@ sur des modules générés par des polynômes harmoniques et des opérateurs de 
 
 ## Séminaires 
 
-- 
+- *Paradoxes et autres mystères mathématiques*, séminaire d'été des étudiants, UQAM, 21 août 2018.
+- *Synthétiser l'information disponible sur un ensemble de colliers de perles multicolores*, concours Ma Thèse en 180 secondes, UQAM, 12 avril 2018.
+- * $$GL_k \times S_n$$ action on multivariate polynomials*, GSCC (Graduate Students Combinatorics Conference), Dallas, Texas, 7 avril 2018.
+- *Construire des tableaux de rubans avec des posets*, séminaire des étudiants aux cycles supérieurs en mathématiques, UQAM, 22 janvier 2018.
+- *Permutations, arbres binaires planaires et triangulations*, séminaire d'été des étudiants, UQAM, 28 juillet 2017. 
+- *Jeu de Taquin*, séminaire d'été des étudiants, UQAM, 30 juin 2017. 
+- *Permutations, arbres binaires planaires et triangulations*, séminaire des étudiants aux cycles supérieurs en mathématiques, UQAM, 9 mars 2017.
 
 ## Poster 
 
