@@ -6,9 +6,9 @@ CV
 
 <p align="center">
   <img src="photo.png">
-  <i>Concours Ma thèse en 180 secondes (12 avril 2018)<\i>
 </p>
 
+*Concours Ma thèse en 180 secondes (12 avril 2018)*
 
 Je suis actuellement étudiante au doctorat à l'Université du Québec à Montréal [(UQAM)](https://math.uqam.ca/)
 en combinatoire sous la direction de [François Bergeron](http://bergeron.math.uqam.ca/fr/) au [(LaCIM)](http://lacim.uqam.ca/) à Montréal 
