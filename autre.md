@@ -1,4 +1,4 @@
-# Autres activités mathématiques 
+# Vulgarisation
 
 Je m'implique dans différentes activités de vulgarisation et de promotion de la recherche en mathématiques. 
 
@@ -17,3 +17,9 @@ nous présentons différents tours de magie basés sur les maths (tours de carte
 
 Cet atelier a été donné dans le cadre du [24h de Sciences](http://science24heures.com/) et 
 à des groupes scolaires en partenariat avec l'[ISM](http://ism.uqam.ca/). 
+
+## Balade maths en ville 
+
+J'ai donné à plusieurs occasions la balade maths en ville proposée par le 
+[coeur des sciences](https://coeurdessciences.uqam.ca/balades-scientifiques-groupes-scolaires.html) 
+de l'UQAM à des groupes grand public ou des groupes scolaires. 
