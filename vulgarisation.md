@@ -23,3 +23,8 @@ Cet atelier a été donné dans le cadre du [24h de Sciences](http://science24he
 J'ai donné à plusieurs occasions la balade maths en ville proposée par le 
 [coeur des sciences](https://coeurdessciences.uqam.ca/balades-scientifiques-groupes-scolaires.html) 
 de l'UQAM à des groupes grand public ou des groupes scolaires. 
+
+## Ma thèse en 180 secondes
+
+En avril 2018, j'ai participé au concours ma thèse en 180 secondes [(MT180)](https://www.acfas.ca/prix-concours/ma-these-en-180-secondes)
+où des jeunes chercheurs de tous les domaines doivent présenter leur sujet de thèse de façon simple et accessible en exactement trois minutes.  
