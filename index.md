@@ -6,7 +6,7 @@ CV
 
 <p align="center">
   <img src="photo.png">
-  <i>Concours Ma thèse en 180 secondes (12 avril 2018)*<\i>
+  <i>Concours Ma thèse en 180 secondes (12 avril 2018)<\i>
 </p>
 
 
