@@ -6,9 +6,8 @@ CV
 
 <p align="center">
   <img src=photo.png>
-  <it>Concours Ma thèse en 180 secondes (12 avril 2018)*<\it>
+  <i>Concours Ma thèse en 180 secondes (12 avril 2018)*<\i>
 </p>
-
 
 
 Je suis actuellement étudiante au doctorat à l'Université du Québec à Montréal [(UQAM)](https://math.uqam.ca/)
