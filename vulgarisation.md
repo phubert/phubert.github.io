@@ -2,6 +2,8 @@
 
 Je m'implique dans différentes activités de vulgarisation et de promotion de la recherche en mathématiques. 
 
+*******
+
 ## MATh.en.JEANS
 
 Je participe au projet [MATh.en.JEANS](https://www.mathenjeans.fr/) dans les collèges Stanislas et Marie de France à Montréal depuis fin 2016. 
