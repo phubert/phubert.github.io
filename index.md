@@ -15,8 +15,7 @@ et de [Nicolas Thiéry](http://nicolas.thiery.name/) au [LRI](https://www.univer
 
 <p align="center">
   <img src="photo.png" alt="photoMT180">
-</p>
-
+</p>  
 *Photo : Concours Ma thèse en 180 secondes (12 avril 2018)*
 
 ## Intérêts en recherche
