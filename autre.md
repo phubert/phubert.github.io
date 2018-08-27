@@ -2,9 +2,9 @@
 
 Je m'implique dans différentes activités de vulgarisation et de promotion de la recherche en mathématiques. 
 
-## Math.en.Jeans
+## MATh.en.JEANS
 
-Je participe au projet [Math.en.Jeans](https://www.mathenjeans.fr/) dans les collèges Stanislas et Marie de France à Montréal depuis fin 2016. 
+Je participe au projet [MATh.en.JEANS](https://www.mathenjeans.fr/) dans les collèges Stanislas et Marie de France à Montréal depuis fin 2016. 
 Ce projet vise à promouvoir et faire découvrir à des jeunes de 12 à 18 ans la recherche en mathématiques à travers des projets ludiques et adaptés à leur niveau. 
 
 ## Atelier de maths et magie
