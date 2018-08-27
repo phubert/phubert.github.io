@@ -7,7 +7,7 @@ Je m'implique dans différentes activités de vulgarisation et de promotion de l
 ## MATh.en.JEANS
 
 Je participe au projet [MATh.en.JEANS](https://www.mathenjeans.fr/) dans les collèges Stanislas et Marie de France à Montréal depuis fin 2016. 
-Ce projet vise à promouvoir et faire découvrir à des jeunes de 12 à 18 ans la recherche en mathématiques à travers des projets ludiques et adaptés à leur niveau. 
+Ce projet vise à promouvoir et faire découvrir à des jeunes de 12 à 18 ans la recherche en mathématiques à travers des projets ludiques et adaptés à leur niveau.  
 Notre équipe de jeunes chercheurs proposent des sujets, se rend dans les écoles périodiquement pendant l'année pour aider les jeunes à avancer et participe au congré
 annuel lors duquel nous organisons différentes activités liées aux mathématiques (balade mathématique, rallye mathématique, séance d'échange sur le métier de chercheur). 
 
