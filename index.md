@@ -3,7 +3,7 @@
 email : hubert.pauline@courrier.uqam.ca
 
 
-![photo](photo.jpg)
+![photo](photo.jpg =250x)
 *Concours Ma thèse en 180 secondes (12 avril 2018)*
 
 Je suis actuellement étudiante au doctorat à l'Université du Québec à Montréal [(UQAM)](https://math.uqam.ca/)
