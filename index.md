@@ -13,7 +13,7 @@ en combinatoire sous la direction de [François Bergeron](http://bergeron.math.u
 et de [Nicolas Thiéry](http://nicolas.thiery.name/) au [LRI](https://www.universite-paris-saclay.fr/fr/recherche/laboratoire/laboratoire-de-recherche-en-informatique-lri) à Paris-Saclay.  
 
 <p align="center">
-  <img src="photo.png">
+  <img src="photo.png" alt="photoMT180">
 </p>
 
 *Photo : Concours Ma thèse en 180 secondes (12 avril 2018)*
