@@ -1,4 +1,4 @@
-#Autres activités mathématiques 
+# Autres activités mathématiques 
 
 ## Math.en.Jeans
 
