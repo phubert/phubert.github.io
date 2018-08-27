@@ -5,7 +5,7 @@ email : hubert.pauline@courrier.uqam.ca
 CV (à ajouter)
 
 Je suis actuellement étudiante au doctorat à l'Université du Québec à Montréal [(UQAM)](https://math.uqam.ca/)
-en combinatoire sous la direction de [François Bergeron](http://bergeron.math.uqam.ca/fr/) au [(LaCIM)](http://lacim.uqam.ca/) à Montréal 
+en combinatoire sous la direction de [François Bergeron](http://bergeron.math.uqam.ca/fr/) au [LaCIM](http://lacim.uqam.ca/) à Montréal 
 et de [Nicolas Thiéry](http://nicolas.thiery.name/) au [LRI](https://www.universite-paris-saclay.fr/fr/recherche/laboratoire/laboratoire-de-recherche-en-informatique-lri) à Paris-Saclay.  
 
 <p align="center">
