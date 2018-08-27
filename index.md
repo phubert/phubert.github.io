@@ -1,5 +1,3 @@
-# 
-
 ## Informations personnelles
 
 email : hubert.pauline@courrier.uqam.ca
