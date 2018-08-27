@@ -7,3 +7,7 @@ J'étudie plus particulièrement l'action du groupe symétrique et du groupe gé
 sur des modules générés par des polynômes harmoniques et des opérateurs de dérivation et de polarisation. 
 
 ## Séminaires 
+
+## Poster 
+
+- P. Hubert, N.Lafrenière, Peak Algebra, CMS Winter meeting, poster session, décembre 2015. [Voir le poster](poster.pdf). 
