@@ -13,5 +13,7 @@ En collaboration, avec [Nadia Lafrenière]() et [Mélodie Lapointe](),
 nous avons développé un atelier de maths et magie pour grand public dans lequel 
 nous présentons différents tours de magie basés sur les maths (tours de cartes, carré magique, noeuds) que nous expliquons ensuite. 
 
+[Exemple de tour](carte.pdf). 
+
 Cet atelier a été donné dans le cadre du [24h de Sciences](http://science24heures.com/) et 
 à des groupes scolaires en partenariat avec l'[ISM](http://ism.uqam.ca/). 
