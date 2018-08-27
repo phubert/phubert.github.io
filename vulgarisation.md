@@ -9,7 +9,7 @@ Ce projet vise à promouvoir et faire découvrir à des jeunes de 12 à 18 ans l
 
 ## Atelier de maths et magie
 
-En collaboration, avec [Nadia Lafrenière](https://nadialafreniere.github.io/) et [Mélodie Lapointe](), 
+En collaboration, avec [Nadia Lafrenière](https://nadialafreniere.github.io/) et [Mélodie Lapointe](https://lapointemelodie.github.io/), 
 nous avons développé un atelier de maths et magie pour grand public dans lequel 
 nous présentons différents tours de magie basés sur les maths (tours de cartes, carré magique, noeuds) que nous expliquons ensuite. 
 

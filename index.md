@@ -2,6 +2,8 @@
 
 email : hubert.pauline@courrier.uqam.ca
 
+bureau : Université du Québec à Montréal Pavillon Président-Kennedy Local PK-4528
+
 CV (à ajouter)
 
 Je suis actuellement étudiante au doctorat à l'Université du Québec à Montréal [(UQAM)](https://math.uqam.ca/)
