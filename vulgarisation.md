@@ -7,7 +7,7 @@ Je m'implique dans différentes activités de vulgarisation et de promotion de l
 Je participe au projet [MATh.en.JEANS](https://www.mathenjeans.fr/) dans les collèges Stanislas et Marie de France à Montréal depuis fin 2016. 
 Ce projet vise à promouvoir et faire découvrir à des jeunes de 12 à 18 ans la recherche en mathématiques à travers des projets ludiques et adaptés à leur niveau. 
 Notre équipe de jeunes chercheurs proposent des sujets, se rend dans les écoles périodiquement pendant l'année pour aider les jeunes à avancer et participe au congré
-annuel lors duquel nous organisons différentes activités liées au mathématiques (balade mathématique, rallye mathématique, séance d'échange sur le métier de chercheur). 
+annuel lors duquel nous organisons différentes activités liées aux mathématiques (balade mathématique, rallye mathématique, séance d'échange sur le métier de chercheur). 
 
 ## Atelier de maths et magie
 
@@ -25,7 +25,7 @@ Cet atelier a été donné dans le cadre du [24h de Sciences](http://science24he
 J'ai donné à plusieurs occasions la balade maths en ville proposée par le 
 [coeur des sciences](https://coeurdessciences.uqam.ca/balades-scientifiques-groupes-scolaires.html) 
 de l'UQAM à des groupes grand public ou des groupes scolaires. Il s'agit d'une balade d'environ deux heures
-au centre ville de Montréal dont le but est de faire découvrir différent aspect des mathématiques en se basant
+au centre ville de Montréal dont le but est de faire découvrir différents aspects des mathématiques en se basant
 sur l'environnement de la ville. 
 
 ## Ma thèse en 180 secondes
