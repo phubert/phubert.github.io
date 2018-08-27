@@ -37,11 +37,16 @@
         </section>
 
         <aside id="sidebar">
-          {% if site.show_downloads %}
+            <h2><a href="index.html">
+              Accueil
+              </a></h2>
             <h2><a href="sage.html">
               Contributions à Sage
               </a></h2>
-          {% endif %}
+            <h2><a href="autre.html">
+              Autres activités mathématiques
+              </a></h2>
+ 
 
           {% if site.github.is_project_page %}
             <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
