@@ -2,7 +2,7 @@
 
 email : hubert.pauline@courrier.uqam.ca
 
-bureau : Université du Québec à Montréal Pavillon Président-Kennedy Local PK-4528
+bureau : Université du Québec à Montréal, Pavillon Président-Kennedy, Local PK-4528
 
 CV (à ajouter)
 
