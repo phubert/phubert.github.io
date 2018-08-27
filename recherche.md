@@ -8,6 +8,8 @@ sur des modules générés par des polynômes harmoniques et des opérateurs de 
 
 ## Séminaires 
 
+- 
+
 ## Poster 
 
 - P. Hubert, N.Lafrenière, Peak Algebra, CMS Winter meeting, poster session, décembre 2015. [Voir le poster](poster.pdf). 
