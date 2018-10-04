@@ -4,8 +4,7 @@
 
 Bureau : Université du Québec à Montréal, Pavillon Président-Kennedy, Local PK-4528
 
-[CV](cv_phubert.pdf)  
-([CV académique](cv_academique_phubert.pdf))
+[Curriculun vitae](cv_phubert.pdf)  
 
 ******
 
