@@ -1,4 +1,4 @@
-## Informations personnelles
+## Pour me contacter
 
 <span class="email">Email: pauline.hubert0<span></span><span>@</span><span></span>gmail<span>.</span>com</span><span class="border"> </span>
 
