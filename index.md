@@ -1,8 +1,12 @@
 ## Pour me contacter
 
-<span class="email">Email: pauline.hubert0<span></span><span>@</span><span></span>gmail<span>.</span>com</span><span class="border"> </span>
+<p>Email UQAM : hubert.pauline<span></span><span>@</span><span></span>courrier.uqam<span>.</span>com</span><span class="border"> </span><br />
+<span class="email">Email personnel: pauline.hubert0<span></span><span>@</span><span></span>gmail<span>.</span>com</span><span class="border"> </span> </p>
 
-Bureau : Université du Québec à Montréal, Pavillon Président-Kennedy, Local PK-4528
+<p> Bureau : <br />
+Université du Québec à Montréal <br />
+Pavillon Président-Kennedy  <br />
+Local PK-4528</p>
 
 [Curriculun vitae](cv_phubert.pdf)  
 
