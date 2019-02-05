@@ -8,6 +8,7 @@ sur des modules générés par des polynômes harmoniques et des opérateurs de 
 
 ## Séminaires 
 
+- *The bi-characters of spaces of diagonal harmonic polynomials with inert variables*, The Applied Algebra Seminar, York University, novembre 2018.
 - *Paradoxes et autres mystères mathématiques*, séminaire d'été des étudiants, UQAM, 21 août 2018.
 - *Synthétiser l'information disponible sur un ensemble de colliers de perles multicolores*, concours Ma Thèse en 180 secondes, UQAM, 12 avril 2018.
 - *$$GL_k \times S_n$$ action on multivariate polynomials*, GSCC (Graduate Students Combinatorics Conference), Dallas, Texas, 7 avril 2018.
