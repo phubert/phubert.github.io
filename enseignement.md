@@ -2,7 +2,7 @@
 
 ## Algèbre matricielle et géométrie vectorielle (MAT0600) - UQAM
 
-[Page du cours](mat0600.html)
+<a href="mat0600.html"> Page du cours </a>
 
 ## Autrres cours enseignés à l'UQAM
 
