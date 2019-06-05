@@ -1,6 +1,12 @@
 # Enseignement
 
-## Cours enseignés à l'UQAM
+## Algèbre matricielle et géométrie vectorielle (MAT0600) - UQAM
+
+Horaire : mercredi 18h00-21h00 
+
+Contenu à venir.
+
+## Autrres cours enseignés à l'UQAM
 
 - Enseignement de la période d'exercices et correction pour le cours d'algèbre linéaire I ([MAT1250](https://etudier.uqam.ca/cours?sigle=MAT1250)) à la session d'automne 2016.
 
