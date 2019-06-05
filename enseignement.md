@@ -2,9 +2,7 @@
 
 ## Algèbre matricielle et géométrie vectorielle (MAT0600) - UQAM
 
-Horaire pour l'autome 2019 : mercredi 18h00-21h00 
-
-Contenu à venir.
+[Page du cours](mat0600.html)
 
 ## Autrres cours enseignés à l'UQAM
 
