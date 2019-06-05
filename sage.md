@@ -10,4 +10,5 @@
      
 ## Sage Days
 
-  * Participation à la semaine Woman In Sage à Montréal en juillet 2018
+  * Participation à la semaine Women In Sage à Montréal (Canada) en juillet 2018
+  * Participation à la semaine Women In Sage à Archanes (Crète) en avril 2019
