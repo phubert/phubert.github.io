@@ -22,7 +22,7 @@ Cet atelier a été donné dans le cadre du [24h de Sciences](http://science24he
 
 ## Balade maths en ville 
 
-J'ai donné à plusieurs occasions la balade maths en ville proposée par le 
+J'ai animé à plusieurs occasions la balade maths en ville proposée par le 
 [coeur des sciences](https://coeurdessciences.uqam.ca/balades-scientifiques-groupes-scolaires.html) 
 de l'UQAM à des groupes grand public ou des groupes scolaires. Il s'agit d'une balade d'environ deux heures
 au centre ville de Montréal dont le but est de faire découvrir différents aspects des mathématiques en se basant
