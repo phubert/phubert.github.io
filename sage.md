@@ -9,6 +9,7 @@
      [Dépôt GitHub](https://github.com/sagemath/more-sagemath-tutorials)
      
 ### Tutoriel SageTex
+
      [Slides](sagetex-tutorial.pdf)
   
      
