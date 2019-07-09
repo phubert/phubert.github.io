@@ -10,7 +10,7 @@
      
 ### Tutoriel SageTex
 
-     [Slides](sagetex-tutorial.pdf)
+  * [Slides](sagetex-tutorial.pdf)
   
      
 ## Sage Days
