@@ -2,6 +2,8 @@
 
 ## Tutoriels 
 
+### Tutoriels Sage
+
   * En collaboration avec [Mélodie Lapointe](https://lapointemelodie.github.io/) : création d'un tutoriel sur les partages
      et amélioration du tutoriel existant sur les fonctions symétriques. <br />
      [Tutoriel sur les partages](https://more-sagemath-tutorials.readthedocs.io/en/latest/tutorial-partitions.html) <br />
