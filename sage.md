@@ -4,15 +4,19 @@
 
 ### Tutoriels Sage
 
-  * En collaboration avec [Mélodie Lapointe](https://lapointemelodie.github.io/) : création d'un tutoriel sur les partages
+  <p>En collaboration avec [Mélodie Lapointe](https://lapointemelodie.github.io/) : création d'un tutoriel sur les partages
      et amélioration du tutoriel existant sur les fonctions symétriques. <br />
      [Tutoriel sur les partages](https://more-sagemath-tutorials.readthedocs.io/en/latest/tutorial-partitions.html) <br />
      [Tutoriel sur les fonctions symétriques](https://more-sagemath-tutorials.readthedocs.io/en/latest/tutorial-symmetric-functions.html) <br />
-     [Dépôt GitHub](https://github.com/sagemath/more-sagemath-tutorials)
+     [Dépôt GitHub](https://github.com/sagemath/more-sagemath-tutorials) </p>
      
 ### Tutoriel SageTex
 
-  * [Slides](sagetex-tutorial.pdf)
+
+  <p> Lors des Sages Days de juillet 2019 à Ljubljana, j'ai présenté un tutoriel sur SageTex. Les slides sont accessibles au lien suivant : 
+  [slides sagetex](sagetex-tutorial.pdf) <br>
+  [Fichier sage.sty](sage.sty)
+  </p>
   
      
 ## Sage Days
