@@ -14,7 +14,7 @@
 
   Lors des Sages Days de juillet 2019 à Ljubljana, j'ai présenté un tutoriel sur SageTex. Les slides sont accessibles au lien suivant : 
   [slides sagetex](sagetex-tutorial.pdf) <br>
-  [Fichier sage.sty](sage.sty)
+  [Fichier sage.sty](sagetex.sty)
   
      
 # Sage Days
