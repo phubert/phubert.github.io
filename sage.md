@@ -15,11 +15,14 @@
 
 ## Git 
 
+  Git est un logiciel permettant de faire du contrôle de version. <br>
+  
   Lors des journées Sage à Ljubljana en juillet 2019, j'ai présenté avec [Nadia Lafrenière](https://nadialafreniere.github.io/) un tutoriel sur l'utilisation
   de Git. Les slides et le contenu nécessaire aux exercices sont accessibles sur le [dépôt](https://github.com/phubert/git_sagedays2019) utilisé pour la présentation. 
 
 ## SageTex
 
+  SageTeX est un package de Latex qui permet d'inclure des commandes Sage directement dans un fichier tex. 
   Lors des Sages Days de juillet 2019 à Ljubljana, j'ai présenté un tutoriel sur SageTex. Les slides sont accessibles au lien suivant : 
   [slides sagetex](sagetex-tutorial.pdf) <br>
   [Fichier sage.sty](sagetex.sty)
