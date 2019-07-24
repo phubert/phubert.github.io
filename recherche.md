@@ -6,8 +6,10 @@ Mon projet de recherche porte sur la théorie de la représentation et des carac
 J'étudie plus particulièrement l'action du groupe symétrique et du groupe général linéaire
 sur des modules générés par des polynômes harmoniques et des opérateurs de dérivation et de polarisation. 
 
-## Séminaires 
+## Présentations 
 
+- *Interactive tutorials, an example on symmetric functions*, [ACA](http://aca2019.etsmtl.ca/fr/accueil/) (Applications of Computer Algebra), Montréal, juillet 2019 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/phubert/ACA2019/master?filepath=ACA2019.ipynb)
 - *Bicaractères d'espaces de poynômes multivariés*, Séminaire combinatoire et interactions, Paris, 4 juin 2019
 - *The bi-characters of spaces of diagonal harmonic polynomials with inert variables*, The Applied Algebra Seminar, York University, 12 novembre 2018.
 - *Calcul de bicaractères des espaces de polynômes harmoniques diagonaux à variables inertes*, séminaire des étudiants aux cycles supérieurs en mathématiques, UQAM, 23 octobre 2018.
