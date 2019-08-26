@@ -2,7 +2,7 @@
 
 ## Algèbre matricielle et géométrie vectorielle (MAT0600)
 
-UQAM, Session automne 2019 <br> 
+<it>UQAM, Session automne 2019 </it> <br> 
 <a href="mat0600.html"> Page du cours </a>
 
 ## Autres cours enseignés à l'UQAM
