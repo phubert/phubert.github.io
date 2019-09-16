@@ -31,6 +31,7 @@
      
 # Sage Days
 
-  * Participation à la semaine Women In Sage à Montréal (Canada) en juillet 2018
-  * Participation à la semaine Women In Sage à Archanes (Crète) en avril 2019
   * Participation à la semaine FPSAC Sage Days (Slovénie) en juillet 2019
+  * Participation à la semaine Women In Sage à Archanes (Crète) en avril 2019
+  * Participation à la semaine Women In Sage à Montréal (Canada) en juillet 2018
+  
