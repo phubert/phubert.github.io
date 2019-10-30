@@ -1,0 +1,182 @@
+\documentclass[letter,12pt]{exam}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[francais]{babel}
+\usepackage{amsfonts,amsmath,amssymb,amsthm} % packages à inclure pour les symboles et environnements mathématiques
+\usepackage{geometry} % controle des marges
+\geometry{margin=2.5cm}
+\usepackage{multicol} % texte en colonnes
+\usepackage{graphicx} % inclusion d'images
+\usepackage{float} % placement des images
+\usepackage{aurical}
+\usepackage{fancybox}
+
+%% Déclaration des opérateurs mathématiques et des nouvelles commandes
+\newcommand{\norme}[1]{\left|\!\left| #1 \right|\!\right|}
+\newcommand{\vecteur}[1]{\overrightarrow{#1}}
+
+
+%%- 1 ère page
+\title{{\Large{\textbf{Devoir 3}}}} 
+\date{Mercredi 13 novembre 2019}
+
+%%% Remplacer ici par votre prénom, nom et code permanant
+\author{PRENOM NOM \\ CODE PERMANENT}
+
+
+% En-tête
+\pagestyle{headandfoot}
+\runningheadrule
+\firstpageheader{MAT0600 - Algèbre linéaire et géométrie vectorielle}{}{Automne 2019}
+\runningheader{MAT0600 - Algèbre linéaire et géométrie vectorielle}{}{Automne 2019}
+\firstpagefooter{}{\thepage\ / \numpages}{}
+\runningfooter{}{\thepage\ / \numpages}{}
+
+
+\begin{document}
+
+\maketitle 
+\thispagestyle{headandfoot}
+
+\hrulefill
+
+\qformat{\bfseries Exercice \thequestion: \thequestiontitle \hfill \totalpoints\ points}
+\pointsinrightmargin
+\printanswers
+
+
+\begin{questions}
+
+\vspace*{.5cm}
+\titledquestion{La chasse au trésor} ~
+
+\begin{center}
+	{\Fontlukas{\large{Bienvenue dans le monde merveilleux de la géométrie vectorielle! 
+					
+	Quelque part sur ces terres inexplorées se trouve un fabuleux trésor. 
+				
+	Pour le trouver, vous disposez des indications suivantes. 
+	
+	Bon courage! }}}
+\end{center}
+
+\vspace{.5cm}
+
+On fixe une base orthonormée de l'espace.
+Vous démarrez votre aventure au point de départ $D = (2,3,1)$ et vous avez en votre possession une carte et une série d'instructions : 
+
+\begin{center}
+	\ovalbox{$F = (0,3,3)$ \quad {\Fontlukas{ et }} \quad $L = (4,2,4)$}
+\end{center}
+
+\vspace{.2cm}  
+
+\begin{parts}
+	\part[2] Pour bien vous repérer sur la carte, vous avez besoin de connaître la distance entre vous et l'origine $O= (0,0,0)$.
+	Calculer la longueur $\norme{\vecteur{OD}}$ du vecteur $\vecteur{OD}$.
+	\begin{solutionorbox}
+		%%%% ECRIRE LA SOLUTION ICI %%%%
+	\end{solutionorbox}
+	
+	\part[5] Maintenant que vous avez une meilleure idée de la taille de la carte, vous devez traverser la forêt devant vous et vous rendre au point $F$.
+	Pour cela, calculez l'angle entre les vecteurs $\vecteur{OD}$ et $\vecteur{OF}$ ainsi que les coordonnées du vecteur $\vecteur{DF}$.
+	\begin{solutionorbox}
+		%%%% ECRIRE LA SOLUTION ICI %%%%
+	\end{solutionorbox}
+	
+	\part[6] Vous devriez maintenant être au point $F$. La prochaine étape de votre quête va vous mener au point $L$. Mais attention, pour ne pas risquer d'être pris dans les sables mouvants, vous devez passer par le point $P_F$ le projeté orthogonal de $F$ sur le vecteur $\vecteur{OL}$. Quelles sont les coordonnées de $P_F$ ? 
+	
+	\textit{Indication : les coordonnées de $P_F$ sont données par $\vecteur{OP_F}$ le projeté orthogonal de $\vecteur{OF}$ sur $\vecteur{OL}$.} 
+	\begin{solutionorbox}
+		%%%% ECRIRE LA SOLUTION ICI %%%%
+	\end{solutionorbox} 
+	
+	\part[3] Vous êtes en route vers le point $L$ mais sur votre chemin, vous apercevez un grand lac que vous ne pouvez pas contourner sans risquer de vous retrouver dans les sables mouvants.
+	Vous allez devoir traverser le lac. Vous décidez donc de construire un plan sur lequel vous pourrez marcher. Donner des équations paramétriques du plan $\mathcal{P}_1$ passant par les points $F$, $P_F$ et $L$.
+	\begin{solutionorbox}
+		%%%% ECRIRE LA SOLUTION ICI %%%%
+	\end{solutionorbox}
+	
+	\part[9] Après avoir construit le plan $\mathcal{P}_1$, vous pouvez enfin traverser le lac et arriver au point $L$.
+	Quand vous arrivez au point $L$, un elfe vous donne l'instruction suivante.
+	\begin{center}
+		\ovalbox{{\Fontlukas{ Le prochain indice se trouve quelque part à l'intersection des plans $\mathcal{P}_1$ et $\mathcal{P}_2$.}}}
+	\end{center}
+	Le plan $\mathcal{P}_2$ est le plan passant par $D$ et de vecteur normal $\vecteur{n_2} = (1,0,1)$. Calculer une équation de la droite $\mathcal{D}$ d'intersection de ces deux plans. 
+	\begin{solutionorbox}
+		%%%% ECRIRE LA SOLUTION ICI %%%%
+	\end{solutionorbox}
+	
+	\part[3] Avant de disparaître, l'elfe vous offre une potion magique qui vous permet de voler directement jusqu'à la droite $\mathcal{D}$ mais vous devez d'abord déterminer la distance entre vous et la droite $\mathcal{D}$ pour savoir quelle quantité de potion vous avez besoin. L'elfe vous rappelle que vous vous trouvez présentement au point $L$.
+	\begin{solutionorbox}
+		%%%% ECRIRE LA SOLUTION ICI %%%%
+	\end{solutionorbox} 
+	
+	\part[3] Vous êtes maintenant sur la droite $\mathcal{D}$ mais la fée qui doit vous donner votre prochaine instruction a mélangé ses parchemins et ne sait plus à quel point vous devez maintenant vous rendre. Trouvez parmi les points suivants lequel appartient à la droite $\mathcal{D}$ et rendez vous à ce point. 
+	
+	\begin{center}
+		\ovalbox{$A = (6,12,-3)$} \hspace*{.8cm} \ovalbox{$B = (-6,12,9)$} \hspace*{.8cm}  \ovalbox{$C = (-2,3,2)$}
+	\end{center}
+
+	\begin{solutionorbox}
+		%%%% ECRIRE LA SOLUTION ICI %%%%
+	\end{solutionorbox}
+	
+	\part[2] Votre quête touche à sa fin! Le grand magicien de la géométrie vectorielle détient les coordonnées du trésor mais il ne vous les donnera que si vous répondez correctement à son énigme. 
+	
+	\begin{center}
+	\ovalbox{\parbox{.8\textwidth}{ \centering {\Fontlukas{ Pourquoi est-ce que je peux affirmer sans calcul que le plan de vecteur normal $\vecteur{OP_F}$ et le plan de vecteur normal $\vecteur{OL}$ sont parallèles? }}}}
+	\end{center}
+	
+	\begin{solutionorbox}
+		%%%% ECRIRE LA SOLUTION ICI %%%%
+	\end{solutionorbox}
+	
+	\part[2] Bravo, vous avez réussi l'épreuve du grand magicien de la géométrie vectorielle et il vous a révélé que le trésor se trouve au point de coordonnées $T = (42,42,42)$. Vous vous y rendez pour y découvrir le trésor.  
+	\begin{center}
+	\ovalbox{{\Fontlukas{ Félicitations, vous gagnez $2$ points pour avoir essayé chaque question de cet exercice! }}}
+	\end{center}
+\end{parts}
+
+
+\vspace*{.5cm}
+\titledquestion{Matrices inverses}[15] ~
+
+Pour chacune des matrices suivantes, vérifier qu'elle est inversible et si oui donner son inverse. 
+
+\begin{multicols}{3}
+	\begin{parts}
+		\part $A = \left(\begin{array}{rr}
+		1 & 2 \\
+		2 & -1
+		\end{array}\right)
+		$
+		\part $B = \left(\begin{array}{rrr}
+		1 & 0 & 1 \\
+		3 & -1 & 4 \\
+		0 & 1 & -2
+		\end{array}\right)
+		$
+		\part $C = \left(\begin{array}{rrr}
+		1 & 1 & 0 \\
+		-2 & -2 & 0 \\
+		1 & 2 & -1
+		\end{array}\right)$
+	\end{parts}
+\end{multicols}
+
+\begin{solutionorbox}
+	\begin{parts}
+		\part %%%% ECRIRE LA SOLUTION ICI %%%%
+		\part %%%% ECRIRE LA SOLUTION ICI %%%%
+		\part %%%% ECRIRE LA SOLUTION ICI %%%%
+	\end{parts}
+\end{solutionorbox}
+
+
+\end{questions}
+\end{document}
+
+
+
+
