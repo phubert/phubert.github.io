@@ -27,6 +27,10 @@
   Lors des Sages Days de juillet 2019 à Ljubljana, j'ai présenté un tutoriel sur SageTex. Les slides sont accessibles au lien suivant : 
   [slides sagetex](sagetex-tutorial.pdf) <br>
   [Fichier sage.sty](sagetex.sty)
+
+## Introduction à Python
+
+  Atelier d'introduction à Python pour ElleCode. 
   
      
 # Sage Days
