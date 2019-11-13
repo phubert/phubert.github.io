@@ -33,7 +33,7 @@
   Atelier d'introduction à Python pour ElleCode. <br>
   [Slides](python/atelier_python.pdf) <br>
   [Fichier bienvenue.py](python/bienvenue.py) <br>
-  [Fichier jupyter](python/intro_python.ipynb) <br>
+  [Fichier jupyter intro_python.ipynb](python/intro_python.ipynb) <br>
   
      
 # Sage Days
