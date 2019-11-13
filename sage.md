@@ -30,7 +30,8 @@
 
 ## Introduction à Python
 
-  Atelier d'introduction à Python pour ElleCode. 
+  Atelier d'introduction à Python pour ElleCode. <br>
+  [Slides](python/atelier_python.pdf)
   
      
 # Sage Days
