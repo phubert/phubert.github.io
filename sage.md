@@ -31,7 +31,9 @@
 ## Introduction à Python
 
   Atelier d'introduction à Python pour ElleCode. <br>
-  [Slides](python/atelier_python.pdf)
+  [Slides](python/atelier_python.pdf) <br>
+  [Fichier bienvenue.py](python/bienvenue.py) <br>
+  [Fichier jupyter](python/intro_python.ipynb) <br>
   
      
 # Sage Days
