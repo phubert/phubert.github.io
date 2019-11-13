@@ -30,7 +30,7 @@
 
 ## Introduction à Python
 
-  Atelier d'introduction à Python pour ElleCode. <br>
+  Atelier d'introduction à Python présenté dans le cadre de ElleCode le 14 novembre 2019. <br>
   [Slides](python/atelier_python.pdf) <br>
   [Fichier bienvenue.py](python/bienvenue.py) <br>
   [Fichier jupyter intro_python.ipynb](python/intro_python.ipynb) <br>
