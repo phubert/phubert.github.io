@@ -1,0 +1,172 @@
+\documentclass[letter,12pt]{exam}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[francais]{babel}
+\usepackage{amsfonts,amsmath,amssymb,amsthm} % packages à inclure pour les symboles et environnements mathématiques
+\usepackage{geometry} % controle des marges
+\geometry{margin=2.5cm}
+\usepackage{multicol} % texte en colonnes
+\usepackage{graphicx} % inclusion d'images
+\usepackage{float} % placement des images
+\usepackage{aurical}
+\usepackage{fancybox}
+
+%% Déclaration des opérateurs mathématiques et des nouvelles commandes
+\newcommand{\RR}{\mathbb{R}}
+
+
+%%- 1 ère page
+\title{{\Large{\textbf{Devoir 3}}}} 
+\date{Mercredi 27 novembre 2019}
+
+%%% Remplacer ici par votre prénom, nom et code permanant
+\author{PRENOM NOM \\ CODE PERMANENT}
+
+
+% En-tête
+\pagestyle{headandfoot}
+\runningheadrule
+\firstpageheader{MAT0600 - Algèbre linéaire et géométrie vectorielle}{}{Automne 2019}
+\runningheader{MAT0600 - Algèbre linéaire et géométrie vectorielle}{}{Automne 2019}
+\firstpagefooter{}{\thepage\ / \numpages}{}
+\runningfooter{}{\thepage\ / \numpages}{}
+
+
+\begin{document}
+
+\maketitle 
+\thispagestyle{headandfoot}
+
+\hrulefill
+
+\qformat{\bfseries Exercice \thequestion: \thequestiontitle \hfill \totalpoints\ points}
+\pointsinrightmargin
+\printanswers
+
+\begin{questions}
+	
+	\vspace*{.5cm}
+	\titledquestion{Fibomatrice}[5] ~
+
+	Calculer le déterminant de $M$. $$M = \left(\begin{array}{rrrrrr}
+	1 & 1 & 2 & 3 & 5 & 8 \\
+	1 & 2 & 3 & 5 & 8 & 13 \\
+	2 & 3 & 5 & 8 & 13 & 21 \\
+	3 & 5 & 8 & 13 & 21 & 34 \\
+	5 & 8 & 13 & 21 & 34 & 55 \\
+	8 & 13 & 21 & 34 & 55 & 89
+	\end{array}\right)
+	.$$
+	(\textit{Indication : Il est possible d'effectuer le calcul très rapidement.})
+	
+	\begin{solutionorbox}
+		%%%% ECRIRE LA SOLUTION ICI %%%%
+	\end{solutionorbox}
+	
+	\vspace*{.5cm}
+	\titledquestion{Deltaminants} ~
+	
+	On pose 
+	
+	$$\Delta_2 = \begin{vmatrix}
+	2 & -1 \\ -1 & 2
+	\end{vmatrix} \hspace{1cm}
+	\Delta_3 = \begin{vmatrix}
+	2 & -1 & 0 \\ -1 & 2 & -1 \\ 0 & -1 & 2
+	\end{vmatrix} \hspace{1cm}
+	\Delta_4 = \begin{vmatrix}
+	2 & -1 & 0 & 0 \\ -1 & 2 & -1 & 0 \\ 0 & -1 & 2 & -1 \\ 0 & 0 & -1 & 2
+	\end{vmatrix}$$
+	
+	et pour tout $n \geq 5$, $\Delta_n = \begin{vmatrix}
+	2 & -1 & 0 & \cdots & \cdots & 0 \\
+	-1 & 2 & -1 & \ddots &  & \vdots \\
+	0 & -1 & 2 & -1 & \ddots & \vdots \\
+	\vdots & \ddots & \ddots & \ddots & \ddots & 0 \\
+	\vdots & & \ddots & -1 & 2 & -1\\
+	0 & \cdots & \cdots & 0 & -1 & 2 
+	\end{vmatrix}$ \\
+	
+	\begin{parts}
+		\part[5] Calculer $\Delta_2$, $\Delta_3$ et $\Delta_4$.
+		\begin{solutionorbox}
+			%%%% ECRIRE LA SOLUTION ICI %%%%
+		\end{solutionorbox}
+		\part[5] Montrer que pour tout $n \geq 4$, $\Delta_{n} = 2\Delta_{n-1} - \Delta_{n-2}$. 
+		\begin{solutionorbox}
+			%%%% ECRIRE LA SOLUTION ICI %%%%
+		\end{solutionorbox}
+	\end{parts}
+	
+	\vspace*{.5cm}
+	\titledquestion{Règle de Cramer}[10] ~
+	
+	Résoudre le système d'équations linéaires suivant en utilisant la règle de Cramer.  
+	$$\left(\begin{array}{rrr}
+	1 & 2 & 4 \\
+	0 & -2 & -1 \\
+	1 & 1 & 3
+	\end{array}\right)
+	\left(\begin{array}{r}
+	 x_{1} \\
+	 x_{2} \\
+	 x_{3}
+	 \end{array}\right) = \left(\begin{array}{r}
+	 -9 \\
+	 -2 \\
+	 -4
+	 \end{array}\right).$$
+	
+	\begin{solutionorbox}
+		%%%% ECRIRE LA SOLUTION ICI %%%%
+	\end{solutionorbox}
+	
+	\vspace*{.5cm}
+	\titledquestion{Matrices inverses}[10] ~
+	
+	Déterminer si les matrices suivantes sont inversibles et si oui donner leur inverse en utilisant la matrice adjointe. 
+	
+	$$A=\left(\begin{array}{rrr}
+	1 & 2 & 4 \\
+	0 & -2 & -1 \\
+	1 & 1 & 3
+	\end{array}\right) \qquad B=\left(\begin{array}{rr}
+	-1 & 7 \\
+	2 & -3
+	\end{array}\right)
+	 \qquad C=\left(\begin{array}{rrr}
+	 1 & 0 & 2 \\
+	 8 & -3 & 1 \\
+	 -12 & 6 & 6
+	 \end{array}\right)
+	 $$
+	
+	\begin{solutionorbox}
+		%%%% ECRIRE LA SOLUTION ICI %%%%
+	\end{solutionorbox}
+	
+	\vspace*{.5cm}
+	\titledquestion{Sous-espaces vectoriels} ~
+	Déterminer si chacun des sous-ensembles suivants est un sous-espace vectoriel. 
+	
+	\begin{parts}
+		\part[5] $H_1 = \{ (x, -x^2); x \in \RR \}$ est-il un sous-espace vectoriel de $\RR^2$ ?
+		\begin{solutionorbox}
+			%%%% ECRIRE LA SOLUTION ICI %%%%
+		\end{solutionorbox}
+		\part[5] $H_2 = \{ (a, b-a, 2b); a,b \in \RR \}$ est-il un sous-espace vectoriel de $\RR^3$ ?
+		\begin{solutionorbox}
+			%%%% ECRIRE LA SOLUTION ICI %%%%
+		\end{solutionorbox}
+		\part[5] $H_3 = \{ (x,y,z) \in \RR^3 \text{ tels que } x-y=z\}$ est-il un sous-espace vectoriel de $\RR^3$ ?
+		\begin{solutionorbox}
+			%%%% ECRIRE LA SOLUTION ICI %%%%
+		\end{solutionorbox}
+	\end{parts}
+\end{questions}
+
+\end{document}
+
+
+
+
