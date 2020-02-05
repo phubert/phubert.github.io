@@ -8,7 +8,7 @@ Je me déplace à votre domicile ou dans un lieu public (bibliothèque, cégep) 
 
 
 ## Demande de cours particuliers 
-Remplissez [ce formulaire](https://forms.gle/4S86LfR515XDyX5B9) pour faire une demande de cours particuliers de mathématiques et je vous recontacterai dans les plus brefs délais. 
+Remplissez [<b>ce formulaire</b>](https://forms.gle/4S86LfR515XDyX5B9) pour faire une demande de cours particuliers de mathématiques et je vous recontacterai dans les plus brefs délais. 
 
 J'accepte des élèves de secondaire et cégep (collège et lycée pour le système français) et j'ai des disponibilités du lundi au samedi en journée ou en soirée. 
 J'accepte toutes types de demandes : suivi régulier, cours ponctuel, préparation d'examens, etc.
