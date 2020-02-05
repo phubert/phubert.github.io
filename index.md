@@ -8,7 +8,7 @@ Université du Québec à Montréal <br />
 Pavillon Président-Kennedy  <br />
 Local PK-4528</p>
 
-[Curriculun vitae](cv_phubert.pdf)  
+[Curriculun vitae](cv_paulinehubert.pdf)  
 
 ******
 
