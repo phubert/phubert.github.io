@@ -1,7 +1,7 @@
-## Pour me contacter
+## Mes informations :
 
-<p>Email UQAM : hubert.pauline<span></span><span>@</span><span></span>courrier.uqam<span>.</span><span>ca</span><span class="border"> </span> <br />
-<span class="email">Email personnel: pauline.hubert0<span></span><span>@</span><span></span>gmail<span>.</span>com</span><span class="border"> </span> </p>
+<!-- <p>Email UQAM : hubert.pauline<span></span><span>@</span><span></span>courrier.uqam<span>.</span><span>ca</span><span class="border"> </span> <br />
+<span class="email">Email personnel: pauline.hubert0<span></span><span>@</span><span></span>gmail<span>.</span>com</span><span class="border"> </span> </p> -->
 
 <p> Bureau : <br />
 Université du Québec à Montréal <br />
