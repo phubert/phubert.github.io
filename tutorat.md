@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.png" alt="logo width="300">
+  <img src="image.png" alt="logo style="width:300px;height:117px;">
 </p> 
 
 <i>Mon point de vue est qu'il n'existe pas d'élèves bons en maths et d'autres non. Comprendre les maths n'est pas réservé juste à une catégorie de personnes mais c'est au contraire accessible à tous les élèves pourvu que l'on prenne le temps de l'expliquer de façon adaptée. Je suis convaincue qu'en prenant le temps d'expliquer les maths à chaque élève dans des mots qui lui parlent et en tenant compte de sa façon de raisonner, tout le monde est capable de comprendre l'essentiel. <br>
