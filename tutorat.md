@@ -10,9 +10,27 @@ Je me déplace à votre domicile ou dans un lieu public (bibliothèque, cégep) 
 ## Demande de cours particuliers 
 Remplissez [<b>ce formulaire</b>](https://forms.gle/4S86LfR515XDyX5B9) pour faire une demande de cours particuliers de mathématiques et je vous recontacterai dans les plus brefs délais. 
 
-J'accepte des élèves de secondaire et cégep (collège et lycée pour le système français) et j'ai des disponibilités du lundi au samedi en journée ou en soirée. 
-J'accepte toutes types de demandes : suivi régulier, cours ponctuel, préparation d'examens, etc.
+J'accepte des élèves de secondaire, cégep (collège et lycée pour le système français) et certains cours d'université et j'ai des disponibilités du lundi au samedi en journée ou en soirée. 
+J'accepte toutes types de demandes : suivi régulier, cours ponctuel, préparation d'examens, remise à niveau intensive (pendant la relâche ou l'été), etc.
 
-Tarif : 40$\h déplacement inclus
+Tarif : 40$\h <br>
+Tarif de groupe (3 à 5 personnes, cégep ou université) : 30$/h/personne
 
+J'accepte les paiements en argent comptant, virement interac et virement bancaire. <br>
 Pour chaque séance, je fournis une facture sur laquelle figure le nombre d'heures de la séance et le prix payé. Ces factures pourront vous servir pour vos déductions d'impôts. 
+
+
+<!--
+## Tarifs
+
+Tarif horaire : 40$/h
+
+Tarif de groupe (3 à 5 personnes, cégep ou université) : 30$/h/personne
+
+Remise à niveau intensive été : <br>
+ <ul>
+  <li>1 bloc de 2h : 80$ </li>
+  <li>5 blocs de 2h (10h) : 380$ (rabais de 5%)</li>
+  <li>8 blocs de 2h (16h) : 540$ (rabais de 10%) </li>
+</ul> 
+-->
