@@ -15,6 +15,7 @@ Remplissez [<b>ce formulaire</b>](https://forms.gle/4S86LfR515XDyX5B9) pour fair
 J'accepte des élèves de secondaire, cégep (collège et lycée pour le système français) et certains cours d'université et j'ai des disponibilités du lundi au samedi en journée ou en soirée. 
 J'accepte toutes types de demandes : suivi régulier, cours ponctuel, préparation d'examens, remise à niveau intensive (pendant la relâche ou l'été), etc.
 
+## Tarifs
 Tarif : 40$\h <br>
 Tarif de groupe (3 à 5 personnes, cégep ou université) : 30$/h/personne
 
@@ -23,7 +24,6 @@ Pour chaque séance, je fournis une facture sur laquelle figure le nombre d'heur
 
 
 <!--
-## Tarifs
 
 Tarif horaire : 40$/h
 
