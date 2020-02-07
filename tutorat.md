@@ -16,7 +16,7 @@ J'accepte des élèves de secondaire, cégep (collège et lycée pour le systèm
 J'accepte toutes types de demandes : suivi régulier, cours ponctuel, préparation d'examens, remise à niveau intensive (pendant la relâche ou l'été), etc.
 
 ## Tarifs
-Tarif : 40$\h <br>
+Tarif : 40$/h <br>
 Tarif de groupe (3 à 5 personnes, cégep ou université) : 30$/h/personne
 
 J'accepte les paiements en argent comptant, virement interac et virement bancaire. <br>
