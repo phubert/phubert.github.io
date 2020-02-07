@@ -1,7 +1,7 @@
  Je suis actuellement étudiante au doctorat à l'Université du Québec à Montréal [(UQAM)](https://math.uqam.ca/)
 en combinatoire sous la direction de [François Bergeron](http://bergeron.math.uqam.ca/fr/) au [LaCIM](http://lacim.uqam.ca/) à Montréal 
 et de [Nicolas Thiéry](http://nicolas.thiery.name/) au [LRI](https://www.universite-paris-saclay.fr/fr/recherche/laboratoire/laboratoire-de-recherche-en-informatique-lri) à Paris-Saclay. <br>
-Je suis également chargée de cours à l'UQAM (voir section (Enseignement)[enseignement.html] et je donne des cours privés de mathématiques (voir section (Cours particuliers)[tutorat.md].  
+Je suis également chargée de cours à l'UQAM (voir section [Enseignement](enseignement.html) et je donne des cours privés de mathématiques (voir section [Cours particuliers](tutorat.html).  
 
 <p align="center">
   <img src="photo.png" alt="photoMT180">
