@@ -20,7 +20,7 @@ Université du Québec à Montréal <br />
 Pavillon Président-Kennedy  <br />
 Local PK-4528</p>
 
-[CV](cv_paulinehubert.pdf) 
+[Cliquer ici](cv_paulinehubert.pdf) pour consulter mon CV. 
 
 ## Intérêts en recherche
 
