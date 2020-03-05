@@ -1,0 +1,243 @@
+\documentclass[letter,addpoints,12pt]{exam}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[francais]{babel}
+\usepackage{lmodern}
+\usepackage{amsfonts,amsmath,amssymb}
+\usepackage{amsthm}
+\usepackage{geometry,listings}
+\geometry{margin=2.5cm}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{float}
+\usepackage{aurical}
+\usepackage{fancybox}
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\base}{\mathcal{B}}
+\newcommand{\norme}[1]{\left|\!\left| #1 \right|\!\right|}
+\newcommand{\vecteur}[1]{\overrightarrow{#1}}
+
+\printanswers
+
+%%- 1 ère page
+\title{{\Large{\textbf{Devoir 2}}}} 
+\date{Jeudi 19 mars 2020}
+
+%%% Remplacer ici par votre prénom, nom et code permanant
+\author{PRENOM NOM \\ CODE PERMANENT}
+
+
+% En-tête
+\pagestyle{headandfoot}
+\runningheadrule
+\firstpageheader{MAT0600 - Algèbre linéaire et géométrie vectorielle}{}{Hiver 2020}
+\runningheader{MAT0600 - Algèbre linéaire et géométrie vectorielle}{}{Hiver 2020}
+\firstpagefooter{}{\thepage\ / \numpages}{}
+\runningfooter{}{\thepage\ / \numpages}{}
+
+
+
+\begin{document}
+	
+	\maketitle 
+	\thispagestyle{headandfoot}
+	
+	\hrulefill
+	
+	\qformat{\bfseries \thequestiontitle \hfill \totalpoints\ points}
+	\pointsinrightmargin	
+	
+	\begin{center}
+		{\Fontlukas{\Large{Bienvenue dans le monde merveilleux de la géométrie vectorielle! 
+					
+					Quelque part sur ces terres inexplorées se trouve un fabuleux trésor. 
+					
+					Pour le trouver, tu disposes de deux semaines et des indications suivantes. 
+					
+					Bon courage! }}}
+	\end{center}
+	
+	\begin{questions}
+		\titledquestion{} ~
+		
+		Pour commencer ton aventure, tu as en ta possession une carte et les instructions suivantes. 
+		
+		\begin{center}
+			\ovalbox{\parbox{.8\textwidth}{\centering{\Fontlukas{Point de départ : }} $D = (1,1,1)$ \\ ~ \\ {\Fontlukas{ Autres points donnés : }} $F = (1,2,-3)$ \quad {\Fontlukas{ et }} \quad $R = (4,4,-2)$ \\ ~ \\ 
+					{\Fontlukas{ Le trésor se trouve au point $T =$ (?,?,?). }} }}
+		\end{center}
+		
+		\vspace{.3cm}  
+		
+		\begin{parts}
+			\part[2] Pour bien te repérer sur la carte, tu as besoin de connaître l'échelle. Pour cela, calcule la distance entre ton point de départ et l'origine $O= (0,0,0)$.
+			
+			\begin{solutionorbox}
+				%%%% ECRIRE LA SOLUTION ICI %%%%
+			\end{solutionorbox}
+			
+			\vspace*{.3cm}
+			\part[5] Maintenant que tu as une meilleure idée de la taille de la carte, tu dois traverser la forêt vers l'ouest et te rendre au point $F$.
+			Pour cela, calcule l'angle entre les vecteurs $\vecteur{OD}$ et $\vecteur{OF}$ ainsi que les coordonnées du vecteur $\vecteur{DF}$.
+			
+			\begin{solutionorbox}
+				%%%% ECRIRE LA SOLUTION ICI %%%%
+			\end{solutionorbox}
+			
+			\vspace*{.2cm}
+			\part[3] En chemin à travers la forêt, tu es arrêté.e par un troll qui accepte de te laisser passer à la condition que tu répondes correctement à sa question. 
+			
+			\begin{center}
+				\ovalbox{\parbox{.8\textwidth}{\centering\large{\Fontlukas{~ \\ Si $P$ est le point de coordonnées $(-5,-5,7)$, les points $D$, $R$ et $P$ sont-ils alignés?}}}}
+			\end{center}
+			
+			N'oublie pas de justifier ta réponse pour convaincre le troll que tu as raison.
+			
+			\begin{solutionorbox}
+				%%%% ECRIRE LA SOLUTION ICI %%%%
+			\end{solutionorbox}
+			
+			\vspace*{.3cm}
+			\part[6] Tu as échappé au troll et tu es maintenant au point $F$. La prochaine étape de ta quête va te mener au point $R$. Mais attention, pour ne pas risquer d'être pris dans les sables mouvants, tu dois passer par le point $P_F$ le projeté orthogonal de $F$ sur le vecteur $\vecteur{OR}$. Explique la démarche qui te permet de conclure que les coordonnées de $P_F$ sont $(2,2,-1)$.
+			
+			\begin{solutionorbox}
+				%%%% ECRIRE LA SOLUTION ICI %%%%
+			\end{solutionorbox}  
+			
+			\vspace*{.3cm}
+			\part[3] Tu es sur la bonne route vers le point $R$ mais sur ton chemin, tu aperçois un grand fleuve que tu dois traverser. 
+			Tu décides donc d'utiliser tes pouvoirs de mathématicien en herbe pour construire un plan au dessus de l'eau sur lequel tu vas pouvoir marcher. Donne des équations paramétriques du plan $\mathcal{P}_1$ passant par les points $F$, $P_F$ et $R$.
+			
+			\begin{solutionorbox}
+				%%%% ECRIRE LA SOLUTION ICI %%%%
+			\end{solutionorbox}
+			
+			\vspace*{.3cm} 
+			\part[3] Après avoir construit le plan $\mathcal{P}_1$, tu commences à marcher au-dessus de l'eau. À mi-chemin, tu te fais interpeller par une sirène. Avant de continuer ton chemin, elle te demande de répondre à une question. Charmé.e par sa voix mélodieuse, tu acceptes le défi. Répond à sa question en n'oubliant pas de justifier ta réponse.
+			
+			\begin{center}
+				\ovalbox{\parbox{.8\textwidth}{\centering\large{\Fontlukas{ Est-il vrai que les vecteurs $\vecteur{RP_F}$, $\vecteur{FR}$ et $\vecteur{u} = (0,2,-5)$ sont coplanaires? }}}}
+			\end{center}
+		
+			\begin{solutionorbox}
+				%%%% ECRIRE LA SOLUTION ICI %%%%
+			\end{solutionorbox}
+			
+			\vspace*{.3cm}
+			\part[8] Ta traversée du fleuve te mène finalement au point $L$.
+			Quand tu y arrives, un elfe apparaît et te donne l'instruction suivante.
+			\begin{center}
+				\ovalbox{\large{\Fontlukas{ Le prochain indice se trouve quelque part à l'intersection des plans $\mathcal{P}_1$ et $\mathcal{P}_2$.}}}
+			\end{center}
+			Le plan $\mathcal{P}_2$ est le plan passant par $D$ et de vecteur normal $\vecteur{n_2} = (1,0,1)$. Calcule une équation de la droite $\mathcal{D}$ d'intersection de ces deux plans. 
+			
+			\begin{solutionorbox}
+					%%%% ECRIRE LA SOLUTION ICI %%%%
+			\end{solutionorbox}
+			
+			\vspace*{.3cm}
+			\part[3] Alors que tu t'apprêtes à continuer ton chemin, l'elfe te propose de te donner un objet spécial qui pourra t'aider dans ta quête. Mais cela n'est pas totalement gratuit, il faut d'abord que tu trouves la bonne réponse à sa question.
+			
+			\begin{center}
+				\ovalbox{\parbox{.8\textwidth}{\centering\large{\Fontlukas{Quel est l'angle entre les plans $\mathcal{P}_1$ et $\mathcal{P}_2$? }}}}
+			\end{center} 
+		
+			\begin{solutionorbox}
+				%%%% ECRIRE LA SOLUTION ICI %%%%
+			\end{solutionorbox}
+			
+			\vspace*{.3cm}
+			\part[3] Bravo, en récompense, l'elfe t'offre une potion magique qui te permet de voler directement jusqu'à la droite $\mathcal{D}$ mais à la condition d'en prendre exactement la bonne quantité selon la distance à parcourir. Tu dois donc déterminer la distance entre toi et la droite $\mathcal{D}$. L'elfe te rappelle que tu te trouves présentement au point $R$.
+			
+			\begin{solutionorbox}
+				%%%% ECRIRE LA SOLUTION ICI %%%%
+			\end{solutionorbox} 
+			
+			\part[3] Tu es maintenant sur la droite $\mathcal{D}$ mais la fée qui doit te donner la prochaine instruction a mélangé ses parchemins et ne sait plus à quel point tu dois maintenant te rendre. Trouve parmi les points suivants lequel appartient à la droite $\mathcal{D}$ et rend toi à ce point. 
+			
+			\begin{center}
+				\ovalbox{$A = (5,6,-5)$} \hspace*{.8cm} \ovalbox{$B = (9,10,-7)$} \hspace*{.8cm}  \ovalbox{$C = (-1,2,3)$}
+			\end{center}
+			
+			\begin{solutionorbox}
+				%%%% ECRIRE LA SOLUTION ICI %%%%
+			\end{solutionorbox}
+			
+			\vspace*{.3cm}
+			\part[2] Ta quête touche à sa fin! Le grand magicien de la géométrie vectorielle détient les coordonnées du trésor mais il ne te les donnera que si tu réponds correctement à ses deux énigmes. 
+			
+			\begin{center}
+				\ovalbox{\parbox{.8\textwidth}{ \centering \large{\Fontlukas{~ \\ Pourquoi est-ce que je peux affirmer sans calcul qu'un plan de vecteur normal $\vecteur{OP_F}$ et un plan de vecteur normal $\vecteur{OR}$ sont parallèles? }}}}
+			\end{center}
+			
+			\begin{solutionorbox}
+					%%%% ECRIRE LA SOLUTION ICI %%%%
+			\end{solutionorbox}
+			
+			\vspace*{.3cm}
+			\part[8] La deuxième énigme du grand magicien de la géométrie vectorielle va enfin te révéler les coordonnées du trésor.
+			\begin{center}
+				\ovalbox{\parbox{.9\textwidth}{ \centering \large{\Fontlukas{ ~ \\
+				Indice 1 : La distance entre toi et le point $T$ est la même que la distance entre le plan de vecteur normal $\vecteur{OP_F}$ passant par $D$ et le point $R$. \\
+				Indice 2 : Pour te rendre au point $T$ à partir de ta position actuelle, tu dois suivre la direction et le sens du vecteur $\vecteur{v} = (4,3,0)$. \\ ~ \\
+				Quelles sont les coordonnées du trésor ?   }}}}
+			\end{center}
+			
+			\begin{solutionorbox}
+				%%%% ECRIRE LA SOLUTION ICI %%%%
+			\end{solutionorbox}
+			
+			\vspace*{.3cm}
+			\part[1] Bravo, tu as réussi l'épreuve ultime du grand magicien de la géométrie vectorielle! Tu te rends donc à l'emplacement du trésor. Une fois sur place, tu commences à creuser et tu trouves un coffre contenant le message suivant.
+			\begin{center}
+				\ovalbox{\parbox{.9\textwidth}{\centering \large{\Fontlukas{ Félicitations ! \\ Tu gagnes $1$ point bonus pour avoir essayé chaque question du devoir. }}}}
+			\end{center}
+		\end{parts}
+		
+		
+		%\vspace*{.5cm}
+		%\titledquestion{Matrices inverses}[15] ~
+		%
+		%Pour chacune des matrices suivantes, vérifier qu'elle est inversible et si oui donner son inverse. 
+		%
+		%\begin{sagesilent}
+		%	A = matrix([[1,-2],[1,-3]])
+		%	B = matrix([[1,0,1],[3,-1,4],[0,1,-2]])
+		%	C = matrix([[1,1,0],[-2,-2,0],[1,2,-1]])
+		%\end{sagesilent}
+		%
+		%\begin{multicols}{3}
+		%	\begin{parts}
+		%		\part $A = \sage{A}$
+		%		\part $B = \sage{B}$
+		%		\part $C = \sage{C}$
+		%	\end{parts}
+		%\end{multicols}
+		%
+		%\begin{solutionorbox}
+		%	\begin{sagesilent}
+		%		M1 = A.augment(identity_matrix(2), subdivide=True)
+		%		M2 = B.augment(identity_matrix(3), subdivide=True)
+		%		M3 = C.augment(identity_matrix(3), subdivide=True)
+		%	\end{sagesilent}
+		%	\begin{parts}
+		%		\part $\sage{M1}  \underset{\text{Gauss-Jordan}}{\longrightarrow} \sage{M1.rref()}$
+		%		
+		%		Donc $A^{-1} = \sage{A.inverse()}$ \\ \vspace*{.5cm}
+		%		
+		%		\part $\sage{M2} \underset{\text{Gauss-Jordan}}{\longrightarrow} \sage{M2.rref()}$
+		%		
+		%		Donc $B^{-1} = \sage{B.inverse()}$ \\ \vspace*{.5cm}
+		%		
+		%		\part $\sage{M3} \underset{\text{Gauss-Jordan}}{\longrightarrow} \sage{M3.rref()}$
+		%		
+		%		Donc $C$ n'est pas inversible. 
+		%	\end{parts}
+		%\end{solutionorbox}
+		
+		
+	\end{questions}
+\end{document}
+
+
