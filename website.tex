@@ -1,0 +1,56 @@
+\documentclass[letter,12pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[francais]{babel}
+\usepackage{geometry,listings}
+\geometry{margin=2.5cm}
+\usepackage{hyperref}
+
+\title{Création et mise en ligne de site web avec GitHub : notes et remarques pour commencer}
+\author{Pauline Hubert}
+
+
+\begin{document}
+	\maketitle
+	
+	Quelques ressources utiles : 
+	\begin{itemize}
+		\item Tutoriel sur GitHub Pages : \url{https://gist.github.com/TylerFisher/6127328}
+		\item Tutoriel sur GitHub Pages : \url{http://jmcglone.com/guides/github-pages/}
+		\item Markdown : \url{https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet}
+		\item Markdown : \url{https://guides.github.com/features/mastering-markdown/}
+		\item Jekyll : \url{https://jekyllrb.com/}\\
+	\end{itemize}
+	
+	Quelques remarques pour commencer.
+	
+	\begin{enumerate}
+		\item GitHub permet de faire des sites web statiques. 
+		
+		\item Si ce n'est pas déjà fait, se créer un compte GitHub. Créer un dépôt qui porte le nom \texttt{username.github.io} pour que github sache que cela va être un site web. L'addres url du site web sera alors \texttt{https://username.github.io} .
+		
+		\item Le dépôt va contenir les fichiers (html, css, markdown) de notre site web. Le fichier de la page d'accueil doit s'appeler \texttt{index.md} ou \texttt{index.html}. Si GitHub ne trouve pas de tel fichier, il va utiliser le readme comme page d'accueil. 
+		
+		\item GitHub utilise \texttt{jekyll} pour généré le site web à partir des fichiers dans le dépôt. On peut donc utiliser les options de jekyll, y compris choisir un thème prédéfini. 
+		
+		Pour cela, dans GitHub, aller dans \texttt{settings} aller à la section GitHub Pages. Le choix d'un thème va créer un fichier \texttt{\_config.yml} qui pourra ensuite être compléter pour configurer d'autres choses. 
+		
+		\item Conseil : aller lire le readme du thème choisi pour obtenir des conseils sur commencer personnaliser le thème. 
+		
+		\item Créer ensuite des fichiers en markdown pour le contenu.
+		
+		\item Il est aussi possible de tout faire à la main en html et css. GitHub va être capable de générer aussi le site web. 
+		
+		\item Je pense qu'il est possible de combiner les deux mais je ne sais pas trop comment. 
+		
+		\item Pour visualiser le site web, après avoir commité, attendre quelques secondes puis aller à l'adresse \texttt{https://username.github.io} pour voir directement le site web. 
+		
+		\item Remarque : On peut aussi créer un dépôt  \texttt{new\_repo.github.io}, puis aller dans la section GitHub Pages de \texttt{settings} pour choisir l'option permettant de transformer le dépôt en site web. L'adresse sera alors \url{http://username.github/new\_repo.io}. 
+	\end{enumerate}
+
+	L'adresse de mon site web : \url{http://phubert.github.io}
+	
+	Mon dépôt git : \url{https://github.com/phubert/phubert.github.io.git}
+\end{document}
+
