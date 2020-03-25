@@ -35,8 +35,8 @@ Tarif unitaire : 30$/h <br>
 Tarif de groupe (3 à 5 personnes, cégep ou université) : 20$/h/personne
 
 <ul> Packs
-  <li>1 Pack 5h : 140$ (au lieu de 150$) </li>
-  <li>5 Pack 10h : 275$ (au lieu de 300$) </li>
+  <li> Pack 5h : 140$ (au lieu de 150$) </li>
+  <li> Pack 10h : 275$ (au lieu de 300$) </li>
 </ul> 
 
 J'accepte les paiements en virement interac et virement bancaire. <br>
