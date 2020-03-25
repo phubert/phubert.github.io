@@ -6,7 +6,13 @@
 De plus, il arrive souvent qu'un élève comprenne les concepts mais parce qu'il pense ne pas être capable ou que les maths c'est trop dur pour lui/elle, il n'y arrive pas. Mon but est donc d'identifier les blocages et les lacunes afin d'aider chacun de mes élèves à réussir au meilleur de ses capacités.</i>
 
 ## Fonctionnement
-Je me déplace à votre domicile ou dans un lieu public (bibliothèque, cégep) pour des cours d'une durée variable et convenue à l'avance. La première heure me sert essentiellement à évaluer le niveau, les difficultés et les lacunes de l'élève. Par la suite, je travaille avec les manuels, exercices et examens des élèves afin que les cours soient adaptés à l'enseignement reçu à l'école. Au besoin, j'apporte des notes de cours et des exercices supplémentaires adaptés au besoin de l'élève. 
+
+<b> À domicile : suspendu le temps du COVID-19 </b> <br>
+Je me déplace à votre domicile ou dans un lieu public (bibliothèque, cégep) pour des cours d'une durée variable et convenue à l'avance. La première heure me sert essentiellement à évaluer le niveau, les difficultés et les lacunes de l'élève. Par la suite, je travaille avec les manuels, exercices et examens des élèves afin que les cours soient adaptés à l'enseignement reçu à l'école. Au besoin, j'apporte des notes de cours et des exercices supplémentaires adaptés au besoin de l'élève.
+
+<b> En ligne </b> <br>
+Les rencontres ont lieu via la platforme zoom aux dates et heures convenues à l'avance. Du matériel (exercices, résumés de cours, etc.) peut être envoyé au préalable ou après la rencontre par mail.
+Le sujet de la chaque rencontre est idéalement fixé à l'avance pour me permettre de préparer le matériel nécessaire. 
 
 
 ## Demande de cours 
@@ -16,11 +22,25 @@ J'accepte des élèves de secondaire, cégep (collège et lycée pour le systèm
 J'accepte toutes types de demandes : suivi régulier, cours ponctuel, préparation d'examens, remise à niveau intensive (pendant la relâche ou l'été), etc.
 
 ## Tarifs
+
+<b> À domicile : </b> <br> 
 Tarif : 40$/h <br>
 Tarif de groupe (3 à 5 personnes, cégep ou université) : 30$/h/personne
 
 J'accepte les paiements en argent comptant, virement interac et virement bancaire. <br>
-Pour chaque séance, je fournis une facture sur laquelle figure le nombre d'heures de la séance et le prix payé. Ces factures pourront vous servir pour vos déductions d'impôts. 
+Pour chaque séance, je fournis une facture sur laquelle figure le nombre d'heures de la séance et le prix payé. Ces factures pourront vous servir pour vos déductions d'impôts.
+
+<b> En ligne : </b> <br> 
+Tarif unitaire : 30$/h <br>
+Tarif de groupe (3 à 5 personnes, cégep ou université) : 20$/h/personne
+
+<ul> Packs
+  <li>1 Pack 5h : 140$ (au lieu de 150$) </li>
+  <li>5 Pack 10h : 275$ (au lieu de 300$) </li>
+</ul> 
+
+J'accepte les paiements en virement interac et virement bancaire. <br>
+Pour chaque séance ou pack, je fournis une facture sur laquelle figure les heures et dates de la ou des séeance.s et le montant payé. Ces factures pourront vous servir pour vos déductions d'impôts.
 
 
 <!--
