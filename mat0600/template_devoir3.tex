@@ -1,0 +1,312 @@
+\documentclass[letter,addpoints,12pt]{exam}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[francais]{babel}
+\usepackage{amsfonts,amsmath,amssymb,amsthm} % packages à inclure pour les symboles et environnements mathématiques
+\usepackage{geometry} % controle des marges
+\geometry{margin=2.5cm}
+\usepackage{multicol} % texte en colonnes
+\usepackage{graphicx} % inclusion d'images
+\usepackage{float} % placement des images
+\usepackage{aurical}
+\usepackage{fancybox}
+
+%% Déclaration des opérateurs mathématiques et des nouvelles commandes
+\newcommand{\RR}{\mathbb{R}}
+\newcommand{\base}{\mathcal{B}}
+\newcommand{\norme}[1]{\left|\!\left| #1 \right|\!\right|}
+\newcommand{\vecteur}[1]{\overrightarrow{#1}}
+
+
+%%- 1 ère page
+\title{{\Large{\textbf{Devoir 3}}}} 
+\date{Jeudi 23 avril 2020}
+
+%%% Remplacer ici par votre prénom, nom et code permanant
+\author{PRENOM NOM \\ CODE PERMANENT}
+
+
+% En-tête
+\pagestyle{headandfoot}
+\runningheadrule
+\firstpageheader{MAT0600 - Algèbre linéaire et géométrie vectorielle}{}{Hiver 2020}
+\runningheader{MAT0600 - Algèbre linéaire et géométrie vectorielle}{}{Hiver 2020}
+\firstpagefooter{}{\thepage\ / \numpages}{}
+\runningfooter{}{\thepage\ / \numpages}{}
+
+\printanswers
+
+
+\begin{document}
+
+\maketitle 
+\thispagestyle{headandfoot}
+
+\hrulefill
+
+\qformat{\bfseries Exercice \thequestion: \thequestiontitle \hfill \totalpoints\ points}
+\pointsinrightmargin
+
+
+\begin{questions}
+
+\vspace*{.5cm}	
+\titledquestion{Fibomatrice}[5] ~
+	
+	Calculer le déterminant de $M$. 
+	$$\begin{pmatrix}
+	1 & 1 & 2 & 3 & 5 & 8 \\
+	1 & 2 & 3 & 5 & 8 & 13 \\
+	2 & 3 & 5 & 8 & 13 & 21 \\
+	3 & 5 & 8 & 13 & 21 & 34 \\
+	5 & 8 & 13 & 21 & 34 & 55 \\
+	8 & 13 & 21 & 34 & 55 & 89 \\
+	\end{pmatrix}$$
+	
+	(\textit{Indication : Il est possible d'effectuer le calcul très rapidement et en très peu d'étapes.})
+	
+	\begin{solutionorbox}
+		%%% ÉCRIRE LA SOLUTION ICI %%% 
+	\end{solutionorbox}
+	
+	\vspace*{.5cm}
+	\titledquestion{Deltaminants} ~
+	
+	On donne des déterminants suivants 
+	
+	$$\Delta_2 = \begin{vmatrix}
+	2 & -1 \\ -1 & 2
+	\end{vmatrix} \hspace{1cm}
+	\Delta_3 = \begin{vmatrix}
+	2 & -1 & 0 \\ -1 & 2 & -1 \\ 0 & -1 & 2
+	\end{vmatrix} \hspace{1cm}
+	\Delta_4 = \begin{vmatrix}
+	2 & -1 & 0 & 0 \\ -1 & 2 & -1 & 0 \\ 0 & -1 & 2 & -1 \\ 0 & 0 & -1 & 2
+	\end{vmatrix}$$
+	
+	et pour tout $n \geq 5$, $\Delta_n = \begin{vmatrix}
+	2 & -1 & 0 & \cdots & \cdots & 0 \\
+	-1 & 2 & -1 & \ddots &  & \vdots \\
+	0 & -1 & 2 & -1 & \ddots & \vdots \\
+	\vdots & \ddots & \ddots & \ddots & \ddots & 0 \\
+	\vdots & & \ddots & -1 & 2 & -1\\
+	0 & \cdots & \cdots & 0 & -1 & 2 
+	\end{vmatrix}$ \\
+	
+	\begin{parts}
+		\part[5] Calculer $\Delta_2$, $\Delta_3$ et $\Delta_4$.
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox}
+		\part[5] Montrer que pour tout $n \geq 4$, $\Delta_{n} = 2\Delta_{n-1} - \Delta_{n-2}$. 
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox}
+	\end{parts}
+	
+	\vspace*{.5cm}
+	\titledquestion{Règle de Cramer} ~
+	
+	Résoudre les systèmes d'équations linéaires suivants en utilisant la règle de Cramer. \\
+	\begin{parts}
+		\part[10] $\left(\begin{array}{rrr}
+		1 & 2 & 4 \\
+		0 & -2 & -1 \\
+		1 & 1 & 3
+		\end{array}\right)
+		\left(\begin{array}{r}
+		x_{1} \\
+		x_{2} \\
+		x_{3}
+		\end{array}\right) = \left(\begin{array}{r}
+		-9 \\
+		-2 \\
+		-4
+		\end{array}\right).$
+		
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox}
+		
+		\part[10] $\left(\begin{array}{rrr}
+		0 & -1 & 3 \\
+		1 & 4 & -2 \\
+		1 & 3 & 1
+		\end{array}\right)
+		\left(\begin{array}{r}
+		x_{1} \\
+		x_{2} \\
+		x_{3}
+		\end{array}\right) = \left(\begin{array}{r}
+		0 \\
+		0 \\
+		0
+		\end{array}\right).$
+		
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox}
+	\end{parts} 
+	
+	\vspace*{.5cm}
+	\titledquestion{Matrices inverses} ~
+	
+	$$A=\begin{pmatrix}
+	1 & 2 & 4 \\ 0 & -2 & -1 \\ 1 & 1 & 3
+	\end{pmatrix} \qquad B=\begin{pmatrix}
+	-1 & 7 \\ 2 & -3
+	\end{pmatrix} \qquad C=\begin{pmatrix}
+	1 & 0 & 2 \\ 8 & -3 & 1 \\ -12 & 6 & 6
+	\end{pmatrix}$$
+	
+	\begin{parts}
+		\part[12] Déterminer si les matrices ci-dessus sont inversibles et si oui donner leur inverse en utilisant la matrice adjointe.
+		
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox}
+	
+		\part[8] Pour les matrices $B$ et $C$, vérifier votre réponse à la question précédente en utilisant Gauss-Jordan.
+		
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox} 
+	\end{parts}
+	
+	\vspace*{.5cm}
+	\titledquestion{Géométrie et sous-espace vectoriels} ~
+	
+	Dans un repère orthonormé d'origine $O$, on considère les points 
+	
+	$$A=(1,2,5), \quad B=(-1,6,4),\quad C=(7,-10,8)$$ 
+	$$D=(m,3,4), \quad E=(9,p,-3) \quad \mbox{et} \quad F=(3,-2,6)$$ 
+	
+	où $m$ et $p$ sont des réels. \\
+	
+	\begin{parts}
+		\part[2] Donner l'ensemble des valeurs de $m$ pour lesquelles $\norme{\vecteur{OD}} = \sqrt{26}$. 
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox}
+		
+		\part[2]  À partir de maintenant, on considère $m=-1$. Trouver $p$ tel que les vecteurs $\vecteur{OD}$ et $\vecteur{OE}$ soient orthogonaux.
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox}
+		
+		\part[5] Déterminer une équation cartésienne du plan $\mathcal{P}_{ABD}$ défini par les points $A$, $B$ et $D$.
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox}
+		
+		\part[3] Déterminer une équation vectorielle du plan $\mathcal{P}_{ABO}$ défini par les points $A$, $B$ et $O$.
+		
+		\textit{(Indication : utiliser le point O pour donner l'équation.)}
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox}
+		
+		\part[4] À partir de maintenant, on considère $p=7$. Calculer le produit vectoriel $\vecteur{AC} \wedge \vecteur{AE}$ et justifier que le vecteur $\vec{n} = (9,8,14)$ est un vecteur normal au plan $\mathcal{P}_{ACE}$ défini par les points $A$, $C$ et $E$.
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox}
+		
+		\part[4] Donner les équations paramétriques de la droite $\mathcal{D}_{BC}$ définie par les points $B$ et $C$ et montrer que $F$ appartient à $\mathcal{D}_{BC}$.
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox}
+		
+		\part[5] Donner une équation vectorielle de la droite $\mathcal{D}$ d'intersection des plans $\mathcal{P}_{ABD}$ et $\mathcal{P}_{ACE}$.
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox}
+		
+		\part[4] Le plan $\mathcal{P}$ de vecteur normal $\vec{n'} = (18,16,28)$ est-il parallèle ou sécant à $\mathcal{P}_{ABD}$? Est-il parallèle ou sécant à $\mathcal{P}_{ACE}$ ? (Justifier)
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox}
+		
+		\part[6] Montrer que le plan $\mathcal{P}_{ABO}$ est un sous-espace vectoriel de $\RR^3$. 
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox}
+		
+		\part[5] Donner une base du sous-espace vectoriel défini par le plan $\mathcal{P}_{ABO}$.
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox}
+	\end{parts}
+	
+	\vspace*{.5cm}
+	\titledquestion{Matrices et espace vectoriels}[10] ~
+	
+	On note $\mathcal{M}_{2}$ l'espace vectoriel des matrices carrées d'ordre $2$. 
+	
+	$$\mathcal{M}_{2} = \left\lbrace \begin{pmatrix}
+	a & b \\ c & d
+	\end{pmatrix}; a,b,c,d \in \RR \right\rbrace$$
+	
+	Déterminer sa dimension. 
+	\begin{solutionorbox}
+		%%% ÉCRIRE LA SOLUTION ICI %%% 
+	\end{solutionorbox}
+	
+	\vspace*{.5cm}
+	\titledquestion{Sous-espaces vectoriels} \label{sev} ~
+	
+	Déterminer si chacun des sous-ensembles suivants est un sous-espace vectoriel. \\
+	
+	\begin{parts}
+		\part[5] $H_1 = \{ (x, -x^2); x \in \RR \}$
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox}
+		
+		\part[5] $H_2 = \{ (a, b-a, 2b); a,b \in \RR \}$
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox}
+		
+		\part[5] $H_3 = \{ (x,y,z,t) \in \RR^4 \text{ tels que } x = 0 \text{ et } y= z+t \}$
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox}
+		
+		\part[5] $H_4 = \{ (x,y,z) \in \RR^3 \text{ tels que } x+y\geq z\}$
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox}
+	\end{parts}
+	
+	\vspace*{.5cm}
+	\titledquestion{Bases} ~
+	
+	\begin{parts}
+		\part[10] Pour chacun des sous-espaces vectoriels de l'exercice \ref{sev}, déterminer une base et donner leur dimension. 
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox}
+	
+		\part[5] L'ensemble $\base_1$ formé des vecteurs \{ (1,2,3), (1,1,0), (0,0,1) \}  est-il une base de $\RR^3$ ? (Justifier.)
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox}
+	
+		\part[5] L'ensemble $\base_2$ formé des vecteurs \{ (1,2,3), (1,2,0), (0,0,1) \} est-il une base de $\RR^3$ ? (Justifier.)
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox}
+	
+		\part[5] On admet que l'ensemble $H = \{(x+y,0); x,y \in \RR\}$ est un sous-espace vectoriel de $\RR^2$. Donner une base de $H$.
+		\begin{solutionorbox}
+			%%% ÉCRIRE LA SOLUTION ICI %%%
+		\end{solutionorbox} 
+	\end{parts}
+	
+	
+\end{questions}
+\end{document}
+
+
+
+
