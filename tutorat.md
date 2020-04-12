@@ -34,13 +34,13 @@ Pour chaque séance, je fournis une facture sur laquelle figure le nombre d'heur
 Tarif unitaire : 30$/h <br>
 Tarif de groupe (3 à 5 personnes, cégep ou université) : 20$/h/personne
 
-<ul> Packs
-  <li> Pack 5h : 140$ (au lieu de 150$) </li>
-  <li> Pack 10h : 275$ (au lieu de 300$) </li>
+<ul> Forfaits
+  <li> Forfait 10h : 285$ (au lieu de 300$) </li>
+  <li> Forfait 15h : 420$ (au lieu de 450$) </li>
 </ul> 
 
 J'accepte les paiements en virement interac et virement bancaire. <br>
-Pour chaque séance ou pack, je fournis une facture sur laquelle figure les heures et dates de la ou des séeance.s et le montant payé. Ces factures pourront vous servir pour vos déductions d'impôts.
+Pour chaque séance ou forfait, je fournis une facture sur laquelle figure les heures et dates de la ou des séeance.s et le montant payé. Ces factures pourront vous servir pour vos déductions d'impôts.
 
 
 <!--
