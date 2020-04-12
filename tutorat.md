@@ -32,7 +32,6 @@ Pour chaque séance, je fournis une facture sur laquelle figure le nombre d'heur
 
 <b> En ligne : </b> <br> 
 Tarif unitaire : 30$/h <br>
-Tarif de groupe (3 à 5 personnes, cégep ou université) : 20$/h/personne
 
 <ul> Forfaits
   <li> Forfait 10h : 285$ (au lieu de 300$) </li>
