@@ -1,5 +1,4 @@
- Je viens de terminer mon doctorat en mathématiques à l'Université du Québec à Montréal [(UQAM)](https://math.uqam.ca/)
-en combinatoire sous la direction de [François Bergeron](http://bergeron.math.uqam.ca/fr/) au [LaCIM](http://lacim.uqam.ca/) à Montréal 
+J'ai obtenu en mars 2020 mon doctorat en mathématiques combinatoires de l'Université du Québec à Montréal [(UQAM)](https://math.uqam.ca/) sous la direction de [François Bergeron](http://bergeron.math.uqam.ca/fr/) au [LaCIM](http://lacim.uqam.ca/) à Montréal 
 et de [Nicolas Thiéry](http://nicolas.thiery.name/) au [LRI](https://www.universite-paris-saclay.fr/fr/recherche/laboratoire/laboratoire-de-recherche-en-informatique-lri) à Paris-Saclay.
 
 Je suis également chargée de cours à l'UQAM (voir section [Enseignement](enseignement.html)) et je donne des cours privés de mathématiques (voir section [Cours particuliers](tutorat.html)).  
@@ -13,18 +12,7 @@ Je suis également chargée de cours à l'UQAM (voir section [Enseignement](ense
 
 ## Mes informations :
 
-<!-- <p>Email UQAM : hubert.pauline<span></span><span>@</span><span></span>courrier.uqam<span>.</span><span>ca</span><span class="border"> </span> <br />
-<span class="email">Email personnel: pauline.hubert0<span></span><span>@</span><span></span>gmail<span>.</span>com</span><span class="border"> </span> </p> -->
+<span class="email">Email: pauline.hubert0<span></span><span>@</span><span></span>gmail<span>.</span>com</span><span class="border"> </span> </p> -->
 
-<p> Bureau : <br />
-Université du Québec à Montréal <br />
-Pavillon Président-Kennedy  <br />
-Local PK-4528</p>
 
 [Cliquer ici](cv_paulinehubert.pdf) pour consulter mon CV. 
-
-## Intérêts en recherche
-
-Mon projet de recherche porte sur la théorie de la représentation et des caractères. 
-J'étudie plus particulièrement l'action du groupe symétrique et du groupe général linéaire
-sur des modules générés par des polynômes harmoniques et des opérateurs de dérivation et de polarisation. 
