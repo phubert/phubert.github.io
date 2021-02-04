@@ -15,11 +15,17 @@ Les rencontres ont lieu via la platforme zoom aux dates et heures convenues à l
 Le sujet de la chaque rencontre est idéalement fixé à l'avance pour me permettre de préparer le matériel nécessaire. 
 
 
-## Demande de cours 
+## Demande de cours
+<!--
 Remplissez [<b>ce formulaire</b>](https://forms.gle/4S86LfR515XDyX5B9) pour faire une demande de cours particuliers de mathématiques et je vous recontacterai dans les plus brefs délais. 
 
 J'accepte des élèves de secondaire, cégep (collège et lycée pour le système français) et certains cours d'université et j'ai des disponibilités du lundi au samedi en journée ou en soirée. 
 J'accepte toutes types de demandes : suivi régulier, cours ponctuel, préparation d'examens, remise à niveau intensive (pendant la relâche ou l'été), etc.
+-->
+
+Je ne suis pas disponible actuellement. 
+
+<!--
 
 ## Tarifs
 
@@ -40,7 +46,7 @@ Tarif unitaire : 30$/h <br>
 
 J'accepte les paiements en virement interac et virement bancaire. <br>
 Pour chaque séance ou forfait, je fournis une facture sur laquelle figure les heures et dates de la ou des séeance.s et le montant payé. Ces factures pourront vous servir pour vos déductions d'impôts.
-
+-->
 
 <!--
 
