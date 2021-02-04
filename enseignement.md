@@ -1,13 +1,10 @@
 # Enseignement
 
-## Algèbre matricielle et géométrie vectorielle (MAT0600)
+## Je suis actuellement enseignante au Collège Ahuntsic pour la session Hiver 2020. 
 
-<i>UQAM, Session hiver 2020 </i> <br> 
-<a href="mat0600.html"> Page du cours </a>
+## Cours enseignés à l'UQAM
 
-## Autres cours enseignés à l'UQAM
-
-- [MAT0600](https://etudier.uqam.ca/cours?sigle=MAT0600) : Algèbre linéaire et géométrie vectorielle, automne 2019
+- [MAT0600](https://etudier.uqam.ca/cours?sigle=MAT0600) : Algèbre linéaire et géométrie vectorielle, automne 2019 et hiver 2020
 
 - Enseignement de la période d'exercices pour le cours de mathématiques générales ([MAT0339](https://etudier.uqam.ca/cours?sigle=MAT0339)) à la session d'automne 2018.
 
