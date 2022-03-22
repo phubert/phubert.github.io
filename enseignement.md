@@ -1,6 +1,6 @@
 # Enseignement
 
-## Je suis actuellement enseignante au Collège Ahuntsic pour la session Hiver 2020. 
+## Je suis actuellement enseignante au Collège Ahuntsic depuis janvier 2021. 
 
 ## Cours enseignés à l'UQAM
 
